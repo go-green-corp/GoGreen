@@ -1,2 +1,2 @@
 # GoGreen
-Official website of the Go Green team
+Official website of the Go Green organization
